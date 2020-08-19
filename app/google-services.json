@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "107986758723",
+    "firebase_url": "https://valorantmanagernew.firebaseio.com",
+    "project_id": "valorantmanagernew",
+    "storage_bucket": "valorantmanagernew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107986758723:android:761fde9428b35326ecb8f6",
+        "android_client_info": {
+          "package_name": "com.bobby.valomanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107986758723-vcgpltcu996v7p7ec6ilvi8k8f5v07oo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZx4esdLTfazQrdiVsAF2emz0MLxZF7AQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107986758723-vcgpltcu996v7p7ec6ilvi8k8f5v07oo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
