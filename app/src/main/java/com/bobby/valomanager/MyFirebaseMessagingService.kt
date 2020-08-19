@@ -1,6 +1,6 @@
 package com.bobby.valomanager
 
-import com.google.firebase.messaging.FirebaseMessaging
+import com.google.firebase.messaging.FirebaseMessagingService
 
-class MyFirebaseMessagingService: MyFirebaseMessagingService() {
+class MyFirebaseMessagingService: FirebaseMessagingService() {
 }
