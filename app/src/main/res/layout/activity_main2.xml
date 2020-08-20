@@ -6,16 +6,6 @@
     android:layout_height="match_parent"
     android:background="@color/colorIntroApp"
     android:foreground="@mipmap/Fondo_principal"
-    tools:context=".MainActivity2" >
-
-    <View
-        android:id="@+id/divider2"
-        android:layout_width="409dp"
-        android:layout_height="1dp"
-        android:layout_marginTop="618dp"
-        android:background="?android:attr/listDivider"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
-</androidx.constraintlayout.widget.ConstraintLayout>
+    tools:context=".MainActivity2" />
+<com.google.android.material.bottomnavigation.BottomNavigationView
+    android:
