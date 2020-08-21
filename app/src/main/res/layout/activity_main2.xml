@@ -6,6 +6,6 @@
     android:layout_height="match_parent"
     android:background="@color/colorIntroApp"
     android:foreground="@mipmap/Fondo_principal"
-    tools:context=".MainActivity2" />
-<com.google.android.material.bottomnavigation.BottomNavigationView
-    android:
+    tools:context=".MainActivity2" >
+
+</androidx.constraintlayout.widget.ConstraintLayout>
