@@ -5,6 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/colorIntroApp"
+    android:foreground="@mipmap/fondo_principal_copia"
     tools:context=".MainActivity2">
 
 </androidx.constraintlayout.widget.ConstraintLayout>
