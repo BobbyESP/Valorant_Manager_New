@@ -8,9 +8,11 @@
     tools:context=".MainActivity2">
 
     <Button
+        android:id="@+id/boton_prueba"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/boton_prueba"
+        android:background="@drawable/boton_redondo"
+        android:fontFamily="@font/tusker5700bold"
         android:text="REINCIAR APP"
-        android:background="@drawable/boton_redondo"/>
+        android:textColor="#f0414f" />
 </androidx.constraintlayout.widget.ConstraintLayout>
