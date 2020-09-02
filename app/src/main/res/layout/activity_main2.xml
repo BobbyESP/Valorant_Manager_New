@@ -13,6 +13,6 @@
         android:layout_height="wrap_content"
         android:background="@drawable/boton_redondo"
         android:fontFamily="@font/tusker5700bold"
-        android:text="REINCIAR APP"
-        android:textColor="#f0414f" />
+        android:text="@string/boton_reinciar_app"
+        android:textColor="#f0435f" />
 </androidx.constraintlayout.widget.ConstraintLayout>
