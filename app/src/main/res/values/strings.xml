@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name" translatable="false">Valorant Manager</string>
     <string name="boton_reinciar_app" translatable="true">REINICIAR APP</string>
+    <string name="welcome_text">BIENVENIDO, AGENTE</string>
 </resources>

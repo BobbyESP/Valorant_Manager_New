@@ -9,10 +9,17 @@
 
     <Button
         android:id="@+id/boton_prueba"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="214dp"
+        android:layout_height="124dp"
+        android:layout_marginStart="98dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="99dp"
         android:background="@drawable/boton_redondo"
         android:fontFamily="@font/tusker5700bold"
         android:text="@string/boton_reinciar_app"
-        android:textColor="#f0435f" />
+        android:textSize="30sp"
+        android:textColor="#f0435f"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
             public void onCompletion(MediaPlayer mp) {
                 if (isFinishing())
                     return;
-                startActivity(new Intent(MainActivity.this,MainActivity2.class));
+                startActivity(new Intent(MainActivity.this,MainActivity3.class));
                 finish();
 
             }
