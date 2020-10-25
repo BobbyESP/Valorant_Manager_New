@@ -15,4 +15,9 @@
         <item name="windowNoTitle">true</item>
     </style>
 
+    <style name="BOTTOMNAVIBAR"
+        parent="Widget.Design.BottomNavigationView">
+        <item name="fontFamily">@font/tusker5700bold</item>
+    </style>
+
 </resources>
