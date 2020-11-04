@@ -8,6 +8,8 @@ import android.os.Bundle;
 import android.view.MenuItem;
 import android.widget.TextView;
 
+import com.bobby.valomanager.Fragments.DesafiosFragment;
+import com.bobby.valomanager.Fragments.InicioFragment;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 
 public class MainActivity3 extends AppCompatActivity {
