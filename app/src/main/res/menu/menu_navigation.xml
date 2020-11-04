@@ -8,7 +8,8 @@
 
     <item
         android:id="@+id/Desafíos"
-        android:title="Desafíos">
+        android:title="Desafíos"
+        android:icon="@drawable/baseline_dns_black_24dp">
     </item>
 
 

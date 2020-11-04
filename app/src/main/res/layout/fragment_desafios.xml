@@ -7,7 +7,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="DESAFÍOS"
+        android:text="@string/desafios"
         android:fontFamily="@font/tusker5700bold"
         android:textSize="30sp"
         android:textColor="@color/redValorant"
