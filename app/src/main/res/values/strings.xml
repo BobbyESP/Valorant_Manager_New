@@ -4,4 +4,6 @@
     <string name="welcome_text">BIENVENIDO, AGENTE</string>
     <string name="inicio">Inicio</string>
     <string name="desafios">DESAFÍOS</string>
+    <string name="Api_Test_String">API TEST</string>
+    <string name="desafios_nav">Desafíos</string>
 </resources>
