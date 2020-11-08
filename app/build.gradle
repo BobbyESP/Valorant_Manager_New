@@ -1,18 +1,33 @@
 apply plugin: 'com.android.application'
 apply plugin: 'kotlin-android'
 apply plugin: 'com.google.gms.google-services'
+apply plugin: 'com.chaquo.python'
 
 android {
     compileSdkVersion 29
 
     defaultConfig {
         applicationId "com.bobby.valomanager"
-        minSdkVersion 24
+        minSdkVersion 16
         targetSdkVersion 29
         versionCode 1
         versionName "1.0"
-
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+
+        sourceSets {
+            main {
+                python {
+                    srcDirs = ["src/main/python"]
+                }
+            }
+        }
+        python {
+            buildPython "/urs/local/bin/python3"
+            buildPython "python3"
+        }
+        ndk {
+            abiFilters "armeabi-v7a", "x86"
+        }
     }
 
     buildTypes {
